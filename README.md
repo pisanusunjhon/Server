@@ -1,0 +1,2 @@
+# Server
+Server centos6 
